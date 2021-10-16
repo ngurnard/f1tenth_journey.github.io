@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F1TENTH Journey | Nick Gurnard</title>
+    <link>https://f1tenth_journey.github.io/</link>
+    <description>Recent content on F1TENTH Journey | Nick Gurnard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 14 Oct 2021 23:10:12 -0400</lastBuildDate>
+    
+	<atom:link href="https://f1tenth_journey.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://f1tenth_journey.github.io/about/</link>
+      <pubDate>Thu, 14 Oct 2021 23:10:12 -0400</pubDate>
+      
+      <guid>https://f1tenth_journey.github.io/about/</guid>
+      <description>Hi! I am Nick, a masters student at the University of Pennsylvania studying robotics. I come from a mechanical engineering background, and my focus in the robotics field is currently path/motion planning and controls. I have a natural curiosity for all subfields in robotics, so I have exposure to machine learning, perception, mechatronics, and mechanical design. The goal of this F1TENTH journey is simple: win at ICRA 2022 in Philadelphia at the F1TENTH race.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to ROS</title>
+      <link>https://f1tenth_journey.github.io/post/ros_intro/</link>
+      <pubDate>Thu, 14 Oct 2021 22:53:30 -0400</pubDate>
+      
+      <guid>https://f1tenth_journey.github.io/post/ros_intro/</guid>
+      <description>A Quick Note Hello! And welcome to my first post about my journey in F1TENTH. To begin this journey, I learned as much ROS as I could in order to solidy a solid framework for dealing with multiple sensors and data pipelines. Since ROS1 and ROS2 use the same core concepts, I decided to use ROS noetic as my distribution since I am new to ROS. ROS2 has more features and tools, which will only complicate learning the basics.</description>
+    </item>
+    
+  </channel>
+</rss>
