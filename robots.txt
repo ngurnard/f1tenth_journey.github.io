@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://ngurnard.github.io/f1tenth_journey.github.io/sitemap.xml
+Sitemap: /sitemap.xml
